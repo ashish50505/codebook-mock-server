@@ -1,0 +1,17 @@
+{
+  "name": "codebook-mock-server",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.22.1",
+    "json-server": "^0.17.3",
+    "json-server-auth": "^2.1.0"
+  }
+}
